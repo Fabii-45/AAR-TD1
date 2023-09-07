@@ -18,7 +18,7 @@
 </c:if>
 
 <c:if test="${not empty who_is_there}">
-Bienvenu ${who_is_there}!
+Bienvenue ${who_is_there}!
 </c:if>
 </body>
 </html>

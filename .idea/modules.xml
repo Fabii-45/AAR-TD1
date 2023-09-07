@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AAR-TD1.iml" filepath="$PROJECT_DIR$/.idea/AAR-TD1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/A_exemple1/exemple1.iml" filepath="$PROJECT_DIR$/TD1/A_exemple1/exemple1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/B_exemple2/exemple2.iml" filepath="$PROJECT_DIR$/TD1/B_exemple2/exemple2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/C_exemple3/exemple3.iml" filepath="$PROJECT_DIR$/TD1/C_exemple3/exemple3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/D_exemple4/exemple4.iml" filepath="$PROJECT_DIR$/TD1/D_exemple4/exemple4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/F_exemple6/exemple6.iml" filepath="$PROJECT_DIR$/TD1/F_exemple6/exemple6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/A_exercice1/exercice1.iml" filepath="$PROJECT_DIR$/TD1/A_exercice1/exercice1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/B_exercice2/exercice2.iml" filepath="$PROJECT_DIR$/TD1/B_exercice2/exercice2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/C_exercice3/exercice3.iml" filepath="$PROJECT_DIR$/TD1/C_exercice3/exercice3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/D_exercice4/exercice4.iml" filepath="$PROJECT_DIR$/TD1/D_exercice4/exercice4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/E_exercice5/exercice5.iml" filepath="$PROJECT_DIR$/TD1/E_exercice5/exercice5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1/td1.iml" filepath="$PROJECT_DIR$/TD1/td1.iml" />
+    </modules>
+  </component>
+</project>

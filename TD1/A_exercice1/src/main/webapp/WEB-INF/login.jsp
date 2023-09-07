@@ -8,6 +8,16 @@ Cette JSP accueillera un form avec les deux champs login et password
     <title>LOGIN</title>
 </head>
 <body>
-
+<form method="post">
+    <label> login
+        <input type="text" name="login">
+    </label>
+    <br/>
+    <label> password
+        <input type="text" name="password">
+    </label>
+    <br/>
+    <button type="submit">Envoyer</button>
+</form>
 </body>
 </html>

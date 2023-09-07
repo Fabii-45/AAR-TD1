@@ -9,6 +9,8 @@ Cette JSP sera appelée une fois que l'utilisateur est loggué
     <title>Title</title>
 </head>
 <body>
-
+<c:if test="${not empty login}">
+    Bienvenue ${login}!
+</c:if>
 </body>
 </html>
